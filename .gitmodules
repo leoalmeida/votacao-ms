@@ -1,12 +1,12 @@
-[submodule "votacao-app"]
-	path = votacao-app
-	url = https://github.com/leoalmeida/votacao-app
-[submodule "ms-associados"]
-	path = ms-associados
-	url = https://github.com/leoalmeida/ms-associados
-[submodule "ms-sessoes"]
-	path = ms-sessoes
-	url = https://github.com/leoalmeida/ms-sessoes
 [submodule "ms-pautas"]
 	path = ms-pautas
-	url = https://github.com/leoalmeida/ms-pautas
+	url = https://github.com/leoalmeida/ms-pautas.git
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/leoalmeida/votacao-app.git
+[submodule "ms-sessoes"]
+	path = ms-sessoes
+	url = https://github.com/leoalmeida/ms-sessoes.git
+[submodule "ms-associados"]
+	path = ms-associados
+	url = https://github.com/leoalmeida/ms-associados.git
